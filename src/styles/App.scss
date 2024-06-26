@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+header {
+    img{
+        width:40% ;
+        margin: 0 auto;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        display: block;
+    }
+}
+
+a{
+    text-decoration: none;
+}
+.MuiButton-textPrimary{
+    color: #5B166D !important;
+    font-weight: bold;
+}
